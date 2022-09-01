@@ -1,4 +1,4 @@
-# Simple WordPress Deployment on AWS
+# Simple WordPress Deployment on GCP
 
 ## Summary
 A simple project to deploy and bring up a wordpress site on GCP. The wordpress will be deployed on a COMPUTE instance inside a VPC. 
